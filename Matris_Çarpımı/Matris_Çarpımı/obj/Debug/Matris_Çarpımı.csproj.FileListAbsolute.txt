@@ -1,0 +1,7 @@
+C:\Users\NAZIM\OneDrive\Masaüstü\Veri Yapıları Ödev\Matris_Çarpımı\Matris_Çarpımı\bin\Debug\Matris_Çarpımı.exe.config
+C:\Users\NAZIM\OneDrive\Masaüstü\Veri Yapıları Ödev\Matris_Çarpımı\Matris_Çarpımı\bin\Debug\Matris_Çarpımı.exe
+C:\Users\NAZIM\OneDrive\Masaüstü\Veri Yapıları Ödev\Matris_Çarpımı\Matris_Çarpımı\bin\Debug\Matris_Çarpımı.pdb
+C:\Users\NAZIM\OneDrive\Masaüstü\Veri Yapıları Ödev\Matris_Çarpımı\Matris_Çarpımı\obj\Debug\Matris_Çarpımı.csproj.AssemblyReference.cache
+C:\Users\NAZIM\OneDrive\Masaüstü\Veri Yapıları Ödev\Matris_Çarpımı\Matris_Çarpımı\obj\Debug\Matris_Çarpımı.csproj.CoreCompileInputs.cache
+C:\Users\NAZIM\OneDrive\Masaüstü\Veri Yapıları Ödev\Matris_Çarpımı\Matris_Çarpımı\obj\Debug\Matris_Çarpımı.exe
+C:\Users\NAZIM\OneDrive\Masaüstü\Veri Yapıları Ödev\Matris_Çarpımı\Matris_Çarpımı\obj\Debug\Matris_Çarpımı.pdb

@@ -1,0 +1,7 @@
+C:\Users\NAZIM\OneDrive\Masaüstü\Veri Yapıları Ödev\Dizideki_elemanin_aranmasi\Dizideki_elemanin_aranmasi\bin\Debug\Dizideki_elemanin_aranmasi.exe.config
+C:\Users\NAZIM\OneDrive\Masaüstü\Veri Yapıları Ödev\Dizideki_elemanin_aranmasi\Dizideki_elemanin_aranmasi\bin\Debug\Dizideki_elemanin_aranmasi.exe
+C:\Users\NAZIM\OneDrive\Masaüstü\Veri Yapıları Ödev\Dizideki_elemanin_aranmasi\Dizideki_elemanin_aranmasi\bin\Debug\Dizideki_elemanin_aranmasi.pdb
+C:\Users\NAZIM\OneDrive\Masaüstü\Veri Yapıları Ödev\Dizideki_elemanin_aranmasi\Dizideki_elemanin_aranmasi\obj\Debug\Dizideki_elemanin_aranmasi.csproj.AssemblyReference.cache
+C:\Users\NAZIM\OneDrive\Masaüstü\Veri Yapıları Ödev\Dizideki_elemanin_aranmasi\Dizideki_elemanin_aranmasi\obj\Debug\Dizideki_elemanin_aranmasi.csproj.CoreCompileInputs.cache
+C:\Users\NAZIM\OneDrive\Masaüstü\Veri Yapıları Ödev\Dizideki_elemanin_aranmasi\Dizideki_elemanin_aranmasi\obj\Debug\Dizideki_elemanin_aranmasi.exe
+C:\Users\NAZIM\OneDrive\Masaüstü\Veri Yapıları Ödev\Dizideki_elemanin_aranmasi\Dizideki_elemanin_aranmasi\obj\Debug\Dizideki_elemanin_aranmasi.pdb

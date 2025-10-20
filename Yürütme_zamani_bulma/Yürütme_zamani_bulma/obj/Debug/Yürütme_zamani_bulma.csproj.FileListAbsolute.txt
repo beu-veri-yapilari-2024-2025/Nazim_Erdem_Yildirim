@@ -1,0 +1,7 @@
+C:\Users\NAZIM\OneDrive\Masaüstü\Veri Yapıları Ödev\Yürütme_zamani_bulma\Yürütme_zamani_bulma\bin\Debug\Yürütme_zamani_bulma.exe.config
+C:\Users\NAZIM\OneDrive\Masaüstü\Veri Yapıları Ödev\Yürütme_zamani_bulma\Yürütme_zamani_bulma\bin\Debug\Yürütme_zamani_bulma.exe
+C:\Users\NAZIM\OneDrive\Masaüstü\Veri Yapıları Ödev\Yürütme_zamani_bulma\Yürütme_zamani_bulma\bin\Debug\Yürütme_zamani_bulma.pdb
+C:\Users\NAZIM\OneDrive\Masaüstü\Veri Yapıları Ödev\Yürütme_zamani_bulma\Yürütme_zamani_bulma\obj\Debug\Yürütme_zamani_bulma.csproj.AssemblyReference.cache
+C:\Users\NAZIM\OneDrive\Masaüstü\Veri Yapıları Ödev\Yürütme_zamani_bulma\Yürütme_zamani_bulma\obj\Debug\Yürütme_zamani_bulma.csproj.CoreCompileInputs.cache
+C:\Users\NAZIM\OneDrive\Masaüstü\Veri Yapıları Ödev\Yürütme_zamani_bulma\Yürütme_zamani_bulma\obj\Debug\Yürütme_zamani_bulma.exe
+C:\Users\NAZIM\OneDrive\Masaüstü\Veri Yapıları Ödev\Yürütme_zamani_bulma\Yürütme_zamani_bulma\obj\Debug\Yürütme_zamani_bulma.pdb
