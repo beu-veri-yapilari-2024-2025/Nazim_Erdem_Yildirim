@@ -1,0 +1,7 @@
+C:\Users\NAZIM\OneDrive\Masaüstü\Bilgisayar 2\Veri Yapıları\LinkedList_Odev\LinkedList_Odev\bin\Debug\LinkedList_Odev.exe.config
+C:\Users\NAZIM\OneDrive\Masaüstü\Bilgisayar 2\Veri Yapıları\LinkedList_Odev\LinkedList_Odev\bin\Debug\LinkedList_Odev.exe
+C:\Users\NAZIM\OneDrive\Masaüstü\Bilgisayar 2\Veri Yapıları\LinkedList_Odev\LinkedList_Odev\bin\Debug\LinkedList_Odev.pdb
+C:\Users\NAZIM\OneDrive\Masaüstü\Bilgisayar 2\Veri Yapıları\LinkedList_Odev\LinkedList_Odev\obj\Debug\LinkedList_Odev.csproj.AssemblyReference.cache
+C:\Users\NAZIM\OneDrive\Masaüstü\Bilgisayar 2\Veri Yapıları\LinkedList_Odev\LinkedList_Odev\obj\Debug\LinkedList_Odev.csproj.CoreCompileInputs.cache
+C:\Users\NAZIM\OneDrive\Masaüstü\Bilgisayar 2\Veri Yapıları\LinkedList_Odev\LinkedList_Odev\obj\Debug\LinkedList_Odev.exe
+C:\Users\NAZIM\OneDrive\Masaüstü\Bilgisayar 2\Veri Yapıları\LinkedList_Odev\LinkedList_Odev\obj\Debug\LinkedList_Odev.pdb
