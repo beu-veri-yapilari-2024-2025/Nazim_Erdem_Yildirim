@@ -1,0 +1,7 @@
+C:\Users\NAZIM\OneDrive\Masaüstü\İkiYonluLinkedList\İkiYonluLinkedList\İkiYonluLinkedList\bin\Debug\İkiYonluLinkedList.exe.config
+C:\Users\NAZIM\OneDrive\Masaüstü\İkiYonluLinkedList\İkiYonluLinkedList\İkiYonluLinkedList\bin\Debug\İkiYonluLinkedList.exe
+C:\Users\NAZIM\OneDrive\Masaüstü\İkiYonluLinkedList\İkiYonluLinkedList\İkiYonluLinkedList\bin\Debug\İkiYonluLinkedList.pdb
+C:\Users\NAZIM\OneDrive\Masaüstü\İkiYonluLinkedList\İkiYonluLinkedList\İkiYonluLinkedList\obj\Debug\İkiYonluLinkedList.csproj.AssemblyReference.cache
+C:\Users\NAZIM\OneDrive\Masaüstü\İkiYonluLinkedList\İkiYonluLinkedList\İkiYonluLinkedList\obj\Debug\İkiYonluLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\NAZIM\OneDrive\Masaüstü\İkiYonluLinkedList\İkiYonluLinkedList\İkiYonluLinkedList\obj\Debug\İkiYonluLinkedList.exe
+C:\Users\NAZIM\OneDrive\Masaüstü\İkiYonluLinkedList\İkiYonluLinkedList\İkiYonluLinkedList\obj\Debug\İkiYonluLinkedList.pdb
