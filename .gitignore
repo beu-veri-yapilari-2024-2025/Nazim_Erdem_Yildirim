@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+*.users
+*.suo
+*.exe
+*.dll
+.idea/
+node_modules/
+*.log
+.DS_Store
